@@ -1,0 +1,19 @@
+.btn-1{
+    padding: 10px;
+    background-color: rgba(250,234,191, 1 );
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-2{
+    padding: 10px;
+    background-color:rgb(211, 208, 200);
+    border: none;
+    border-radius: 5px;
+}
+
+.opacity{
+    color:rgb(70, 68, 65, .5); ;
+    background-color:rgb(211, 208, 200, 0.5);
+    
+}
