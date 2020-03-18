@@ -60,7 +60,7 @@ let resultpassword = input == passwordDB; //COMPARACION arrojaria un false
 //CONDICIONALES - CONTROL DE FLUJO
 
 if(resultpassword === true){
-    console,log('Login Correct');
+    console.log('Login Correct');
 }else{
     console.log('Login Incorrect');
 }
